@@ -1,0 +1,53 @@
+.oldFormPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.inputSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.exitContainer {
+    display: flex;
+}
+
+.exitModalImage {
+    height: 70px;
+    width: 110px;
+}
+
+.fire {
+    height: 100px;
+    width: 100px;
+}
+
+.spiceRating {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.inputSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    background-color: #780B0B;
+    color: white;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+}

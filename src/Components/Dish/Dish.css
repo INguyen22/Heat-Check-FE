@@ -1,0 +1,16 @@
+.dishDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.dishDetails {
+    color: white;
+}
+
+.backButton {
+    background-color: #780B0B;
+    color: white;
+}

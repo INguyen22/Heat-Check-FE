@@ -1,0 +1,40 @@
+.restaurantContainer {
+    background-color: black;
+    color: white;
+}
+
+.restaurantButtonsContainer {
+    position: sticky; top: 0;
+}
+
+.cardsContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.restaurant {
+    display: flex;
+    width: 50vw;
+    margin: 1%;
+    padding-right: 70px;
+}
+
+.restaurantImage {
+    height: 140px;
+    width: 140px;
+}
+
+.restaurantInfo {
+    padding-left: 20px;
+}
+
+.restName {
+    color: white;
+}
+
+.emptySpace {
+    height: 150px;
+}

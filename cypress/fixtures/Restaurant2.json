@@ -1,0 +1,28 @@
+{ "data": {
+    "restaurant": {
+        "__typename": "Restaurant",
+        "id": "Ttk8uzixI-qX8LhdHINV9A",
+        "name": "Toro",
+        "rating": "4.5",
+        "price": "Not found",
+        "imageUrl": "https://s3-media1.fl.yelpcdn.com/bphoto/DD9_4p7wAwzx9VbNYMwFTQ/o.jpg",
+        "url": "https://www.yelp.com/biz/toro-denver-2?adjust_creative=3gRykLgv5-_vxngoRlAFrQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=3gRykLgv5-_vxngoRlAFrQ",
+        "categories": "Latin American, Lounges",
+        "address": "150 Clayton Ln, Ste B, Denver, CO 77777",
+        "phone": "(303) 253-3000",
+        "lat": "39.718957",
+        "lon": "-104.955457",
+        "city": "Denver, CO",
+        "dishes": [{
+            "__typename": "Dish",
+            "id": "9",
+            "name": "kirby",
+            "cuisineType": "Thai, Noodles",
+            "yelpId": "OT6MJNr8Gzd9nyf25dEl6g",
+            "spiceRating": 1,
+            "reviews": []
+        }
+    ]
+    }
+}
+}

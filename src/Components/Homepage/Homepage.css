@@ -1,0 +1,29 @@
+.homepage {
+    /* background-image: url("../Images/heat-check-2.png") no-repeat; */
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    color: white;
+}
+
+.heatCheckLogo {
+    height: 70%;
+    width: 50%;
+}
+
+.addressForm {
+    display: flex;
+    /* padding-top: 450px; */
+}
+
+input {
+    box-sizing: border-box;
+    height: 50px;
+    width: 200px;
+    border: 1px solid #FFFFFF;
+    background-color: black;
+    color: white;
+}

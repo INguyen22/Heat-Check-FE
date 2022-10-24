@@ -1,0 +1,29 @@
+.sideBar {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-top: 60px;
+    border-right: 1px solid;
+}
+
+.sideButton {
+    background-color: black;
+    color: white;
+    height: 43px;
+    width: 190px;
+    border: none;
+}
+
+.navigation {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "user": {
+            "id": "1",
+            "email": "eli@eli.com",
+            "username": "eli",
+            "__typename": "User"
+        }
+    }
+}

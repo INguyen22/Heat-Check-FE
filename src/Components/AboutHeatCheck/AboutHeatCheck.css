@@ -1,0 +1,15 @@
+.aboutHeatCheck {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.teams {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.teams-style {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "dish": {
+      "id": "1",
+      "name": "pad thai",
+      "cuisineType": "thai",
+      "yelpId": "OT6MJNr8Gzd9nyf25dEl6g",
+      "spiceRating": 3,
+      "reviews": [
+        {
+          "id": "4",
+          "description": "merp",
+          "overallRating": 4,
+          "userId": 4,
+          "dishId": 1,
+          "__typename": "Review"
+        },
+        {
+          "id": "8",
+          "description": "it was meh",
+          "overallRating": 4,
+          "userId": 1,
+          "dishId": 1,
+          "__typename": "Review"
+        }
+      ],
+      "__typename": "Dish"
+    }
+  }
+}
